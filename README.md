@@ -8,6 +8,8 @@
 
 ---
 
+<img src="./src/example.png" width="550" height="370">
+
 A small, POSIX-friendly Bash script to convert a BurpSuite `.der` certificate into the correct hash-based filename and install it into an Android emulator/device system certificate store (e.g. Genymotion) via `adb`.
 
 **Purpose:** automate the repetitive steps needed to add Burp (or other) CA certs to Android's system `cacerts` so network interception works for system apps and apps that trust the system CA.
