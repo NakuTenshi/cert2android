@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="src/logo.png" width="300" height="350"/>
+  <img src="src/logo.png" width="300" height="300"/>
   <p>Automates Burp CA installation on Android via ADB.</p>
 </div>
 
