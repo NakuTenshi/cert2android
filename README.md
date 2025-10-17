@@ -110,22 +110,4 @@ If you want, you can customize the color or force-disable color with a `--no-col
 
 ---
 
-## License
-
-MIT License — feel free to reuse and adapt.
-
----
-
-## Contributing
-
-Suggestions, bug reports, and PRs are welcome. If you want a `--force-color` or `--no-color` flag added, or a dry-run mode, open an issue or PR.
-
----
-
-## Attribution
-
-`cert2android` is a small helper script to streamline adding CA certificates to Android emulators/devices during testing with tools such as Burp Suite and Genymotion.
-
----
-
-*Created with ❤️ for penetration testers and developers.*
+Created by: **NakuTenshi**
