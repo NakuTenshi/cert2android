@@ -2,8 +2,8 @@
 
 
 <div align="center">
-  <img src="src/logo.png" alt="JSHound Logo" width="150" height="200"/>
-  <p>Automates the process of converting and installing BurpSuite or custom CA certificates into Android’s system cacerts using ADB.</p>
+  <img src="src/logo.png" width="150" height="200"/>
+  <p>Automates the process of converting and installing BurpSuite or custom CA certificates into Android’s system cacerts using adb.</p>
 </div>
 
 ---
