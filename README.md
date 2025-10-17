@@ -1,5 +1,13 @@
 # cert2android
 
+
+<div align="center">
+  <img src="src/logo.png" alt="JSHound Logo" width="150" height="200"/>
+  <p>Automates the process of converting and installing BurpSuite or custom CA certificates into Android’s system cacerts using ADB.</p>
+</div>
+
+---
+
 A small, POSIX-friendly Bash script to convert a BurpSuite `.der` certificate into the correct hash-based filename and install it into an Android emulator/device system certificate store (e.g. Genymotion) via `adb`.
 
 **Purpose:** automate the repetitive steps needed to add Burp (or other) CA certs to Android's system `cacerts` so network interception works for system apps and apps that trust the system CA.
